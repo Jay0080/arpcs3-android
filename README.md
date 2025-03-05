@@ -2,8 +2,6 @@
 
 # RPCS3-Android
 
-Sure thing, Jason! Here's a shorter version that includes your status as a coding student:
-
 ---
 
 **RPCS3 Android Fork**
