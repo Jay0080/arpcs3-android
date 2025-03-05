@@ -14,8 +14,6 @@ I'm a coding student working on an early-stage fork of the official RPCS3 Androi
 
 ---
 
-Feel free to let me know if you need any further tweaks!
-
 ## License
 
 RPCS3-Android is licensed under GPLv2 license except directories containing their own LICENSE file, or files containing their own license.
