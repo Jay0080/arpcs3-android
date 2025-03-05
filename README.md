@@ -2,23 +2,19 @@
 
 # RPCS3-Android
 
-*An experimental [RPCS3](https://github.com/RPCS3/rpcs3) emulator port to Android*
+Sure thing, Jason! Here's a shorter version that includes your status as a coding student:
 
-[![](https://img.shields.io/discord/1346565616336896091?color=5865F2&logo=discord&logoColor=white)](https://discord.gg/3PprUAVjfr)
+---
 
-</div>
+**RPCS3 Android Fork**
 
-> **Warning**: Do not ask for link to games or system files. Piracy is not permitted on the GitHub nor in the Discord.
+I'm a coding student working on an early-stage fork of the official RPCS3 Android port. Once I enough experience with Kotlin and C++. I plan to contribute to the official DHrpcs3 port.
 
+**Note**: I'm not affiliated with the official RPCS3 team, and the base of the port is not my work.
 
-## Contributing
+---
 
-If you want to contribute as a developer, please contact us in the [Discord](https://discord.gg/3PprUAVjfr)
-
-## Requirements
-
-Android 12+
-
+Feel free to let me know if you need any further tweaks!
 
 ## License
 
